@@ -46,9 +46,7 @@ Si completaste alguno de los ejercicios bonus, explica tu solución aquí:
 
 
 
-### Bonus Implementado
-*[Indica cuál bonus implementaste: Opción 1 (techo triangular) o Opción 2 (rectángulos superpuestos)]*
-
+### Bonus Implementado 
 Resolvi Opción 2 (rectángulos superpuestos)
 ### Explicación del Bonus
 *[Explica cómo adaptaste tu algoritmo para resolver el bonus]*
