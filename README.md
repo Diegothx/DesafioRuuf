@@ -48,7 +48,8 @@ Si completaste alguno de los ejercicios bonus, explica tu solución aquí:
 
 ### Bonus Implementado
 *[Indica cuál bonus implementaste: Opción 1 (techo triangular) o Opción 2 (rectángulos superpuestos)]*
-Opción 2 (rectángulos superpuestos)
+
+Resolvi Opción 2 (rectángulos superpuestos)
 ### Explicación del Bonus
 *[Explica cómo adaptaste tu algoritmo para resolver el bonus]*
 En primer lugar, se agregaron los parámetros overlapW y overlapH a la función calculate_panels para representar el rectángulo que queda solapado. Adicionalmente, cree pruebas en test_cases_bonus.json para verificar el correcto funcionamiento de la función con los nuevos parámetros. Estas pruebas fueron con casos que me asegure de poder resolver manualmente para verificar que el resultado de la función era correcto.
